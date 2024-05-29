@@ -1,15 +1,15 @@
 constant: CONNECTION_NAME {
-  value: "cortexdemoconn_looker"
+  value: "conn_cortex_framework_demo_sap"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "leega-poc-delivery-inovacao"
+  value: "cortex_framework_-_demo"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "CortexDemoDS_REPORTING"
+  value: "CORTEX_1_SAP_REPORT"
   export: override_required
 }
 
