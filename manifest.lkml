@@ -4,7 +4,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "cortex_framework_-_demo"
+  value: "leega-demo-cortex"
   export: override_required
 }
 
