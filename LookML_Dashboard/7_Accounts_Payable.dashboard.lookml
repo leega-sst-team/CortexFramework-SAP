@@ -563,8 +563,8 @@
     fields: [cash_discount_utilization.posting_date_in_the_document_budat_month, cash_discount_utilization.Cash_Discount_Utilization]
     fill_fields: [cash_discount_utilization.posting_date_in_the_document_budat_month]
     filters:
-      cash_discount_utilization.posting_date_in_the_document_budat_month: 12 months
-        ago for 12 months
+      cash_discount_utilization.posting_date_in_the_document_budat_month: 24 months
+        ago for 24 months
     sorts: [cash_discount_utilization.posting_date_in_the_document_budat_month]
     limit: 500
     column_limit: 50
